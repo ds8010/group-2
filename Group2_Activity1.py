@@ -3,10 +3,10 @@
    Part: Contributed with the "pattern" function and the "main" function and also add "go_to_east" function to make the pattern function more better.
 
    Author2:Hamad Alsaadi 
-   Part: contibuted with the "square" function and the "setPos" function, also the comments for the 2 functions.
+   Part: Contibuted with the "square" function and the "setPos" function, also the comments for the 2 functions.
 
    Author3:Dona Pal
-   Part:Contributed with the hexagon and circle. Also helped with the comments. 
+   Part: Contributed with the "hexagon" and "circle" functions. Also helped with the comments. 
 
    Manifesto: This is a program is written to draw a hexagon, circle and square in a pattern in a row; and repeat the pattern two more times at different positions. """
 
