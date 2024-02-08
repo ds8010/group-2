@@ -1,3 +1,5 @@
+"""Do not edit here"""
+
 from turtle import Turtle, Screen
 
 
