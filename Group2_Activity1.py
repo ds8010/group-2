@@ -3,7 +3,7 @@
    Part: Contributed with the "pattern" function and the "main" function and also add "go_to_east" function to make the pattern function more better. And helped with the comments.
 
    Author2:Hamad Alsaadi 
-   Part: Contibuted with the "square" function and the "setPos" function, also the comments for the 2 functions.
+   Part: Contibuted with the "square" function and the "setpos" function, also the comments for the 2 functions.
 
    Author3:Dona Pal
    Part: Contributed with the "hexagon" and "circle" functions. Also helped with the comments. 
